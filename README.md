@@ -11,7 +11,10 @@ This Repo contain all basic and common use in React I have studied since October
   <li>CRUD</li>
 </ol>
 
-<h3>Projcet 2:</h3> <p>Fetching data from APIs</p>
+<h3>Projcet 2:</h3> 
+<ol>
+  <li>Fetching data from APIs</li>
+</ol>
 
 <h3>Project 3: </h3>
 <ol>
@@ -20,11 +23,20 @@ This Repo contain all basic and common use in React I have studied since October
   <li>Fetching Data in react, react query</li>
 </ol>
 
-<h3>Projcet 4:</h3> <p>Forms</p>
+<h3>Projcet 4:</h3> 
+<ol>
+  <li>Forms</li>
+</ol>
 
-<h3>Projcet 5:</h3> <p>Custom Hooks</p>
+<h3>Projcet 5:</h3>
+<ol>
+  <li>Custom Hooks</li>
+</ol>
 
-<h3>Projcet 6:</h3> <p>Redux Toolkit</p>
+<h3>Projcet 6:</h3> 
+<ol>
+  <li>Redux Toolkit</li>
+</ol>
 
 
 Connect me via khanggia85@gmail.com
